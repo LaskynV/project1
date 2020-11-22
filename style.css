@@ -1,0 +1,295 @@
+.main {
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+    padding: 0 auto;
+}
+header {
+    width: 1385px;
+    height: 46px;
+    background-color:  #EEEFF1;
+    margin: 0 2.5vw;
+    box-sizing: border-box;
+}
+.logo {
+    margin-left: 285px;
+    float: left;
+}
+.head_inf {
+    padding-top: 1px;
+    padding-left: 550px;
+}
+.span_logo {
+    color: #34547A;
+    margin-bottom: 5px;
+    margin-left: 310px;
+}
+.main_button {
+    color: #34547A;
+}
+.about {
+    padding-left: 10px;
+}
+.work {
+    padding-left: 10px;
+}
+.process {
+    padding-left: 10px;
+}
+.cont {
+    padding-left: 10px;
+}
+.spisok_head {
+    list-style-type: none;
+    margin-left: 100px;
+  }
+  .spisok_head li {
+    display: inline-block;
+  }
+.str1 {
+    width: 1385px;
+    height: 350px;
+    background-color: #EEEFF1;
+    margin-right: 2.5vw;
+    margin-left:  2.5vw;
+    box-sizing: border-box;
+}
+.img_1 {
+    width: 50%;
+    height: 350px;
+    float: left;
+    display: inline-block;
+    box-sizing: border-box;
+    padding-top: 70px;
+    padding-left: 350px;
+}
+.text_1 {
+    width: 50%;
+    height: 350px;
+    background-color:#EEEFF1;
+    display: inline-block;
+    box-sizing: border-box;
+    padding-top: 20px;
+    padding-left: 30px;    
+}
+.design {
+    font: Roboto;
+    font-style: normal;
+    font-size: 38px;
+}
+.span_1 {
+    width: 500px;
+    display: inline-block;
+    font-size: 16px;
+    color:  #727272;
+}
+.button_1 {
+    width: 190px;
+    height: 65px;
+    margin-top: 50px;
+    background-color: #34547A;
+    color: white;
+}
+.about_me {
+    width: 1385px;
+    height: 280px;
+    background-color: white;
+    margin-top: -20px;
+    margin-right: 2.5vw;
+    margin-left:  2.5vw;
+    box-sizing: border-box;
+}
+.about_me_h2 {
+    padding-top: 50px;
+    padding-left: 700px;
+}
+.about_me_span {
+    width: 540px;
+    height: 67px;
+    color: #727272;
+    padding-top: 50px;
+    padding-left: 490px;
+    text-align: center;
+    display: inline-block;
+}
+.project {
+    width: 1385px;
+    height: 200px;
+    background-color: #34547A;
+    margin-right: 2.5vw;
+    margin-left:  2.5vw;
+    box-sizing: border-box;
+}
+.project_1 {
+    width: 140px;
+    height: 50px;
+    background-color: #34547A;
+    display: inline-block;
+    margin-top: 100px;
+    margin-left: 150px;
+    box-sizing: border-box;
+}
+.img_project {
+    float: left;
+}
+.h3_project {
+    color: white;
+    margin-top: 5px;
+    margin-bottom: -3px;
+    margin-left: 68px;
+}
+.span_project {
+    color: white;
+    margin-left: 20px;
+}
+.project_2 {
+    width: 140px;
+    height: 50px;
+    background-color: #34547A;
+    display: inline-block;
+    margin-top: 100px;
+    margin-left: 100px;
+    box-sizing: border-box;
+}
+.information_me {
+    width: 1385px;
+    height: 450px;
+    background-color: white;
+    margin-top: -20px;
+    margin-right: 2.5vw;
+    margin-left:  2.5vw;
+    box-sizing: border-box;
+}
+.men {
+    margin-top: 80px;
+    margin-right: 185px;
+    float: right;
+}
+.skills {
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    display: inline-block;
+    box-sizing: border-box;
+    margin-top: 100px;
+    margin-left: 350px;
+}
+.span_skills {
+    color: #727272;
+}
+.kak_work {
+    width: 1385px;
+    height: 500px;
+    background-color: #EEEFF1;
+    margin-right: 2.5vw;
+    margin-left:  2.5vw;
+    box-sizing: border-box;
+}
+.work_span {
+    width: 540px;
+    height: 67px;
+    color: #727272;
+    padding-top: 15px;
+    padding-left: 490px;
+    text-align: center;
+    display: inline-block;
+}
+video {
+    margin-left: 400px;
+}
+.photo {
+    width: 1385px;
+    height: 480px;
+    background-color: white;
+    margin-right: 2.5vw;
+    margin-left:  2.5vw;
+    box-sizing: border-box;
+}
+.photo_main_1 {
+    width: 1385px;
+    height: 240px;
+    box-sizing: border-box;
+}
+.photo_main_2 {
+    width: 1385px;
+    height: 240px;
+    margin-top: -1px;
+}
+.photo_left {
+    display: inline-block;
+}
+.photo_1 {
+    margin-left: -4px;
+    display: inline-block;
+}
+.photo_2 {
+    margin-left: -4px;
+    display: inline-block;
+}
+.microsoft {
+    width: 1385px;
+    height: 200px;
+    background-color: white;
+    margin-right: 2.5vw;
+    margin-left:  2.5vw;
+    box-sizing: border-box;
+}
+.logo_microsoft {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.anketa {
+    width: 1385px;
+    height: 600px;
+    background-color: #EEEFF1;
+    margin-right: 2.5vw;
+    margin-left:  2.5vw;
+    box-sizing: border-box;
+}
+.form_name {
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 490px;
+    display: inline-block;
+}
+.form_number {
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 150px;
+    display: inline-block;
+}
+.form_sms {
+    width: 555px;
+    height: 150px;
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 490px;
+}
+.button_2 {
+    width: 190px;
+    height: 65px;
+    margin-top: 50px;
+    margin-left: 660px;
+    background-color: #34547A;
+    color: white;
+}
+footer {
+    width: 1385px;
+    height: 100px;
+    background-color:  #34547A;
+    color: white;
+    margin: -20px 2.5vw;
+    padding-top: 10px;
+    padding-left: 256px;
+    box-sizing: border-box;
+}
+.logo_vk {
+    display: inline-block;
+    margin-top: -60px;
+    margin-right: 100px;
+    float: right;
+}
